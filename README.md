@@ -2,7 +2,7 @@
 Udacytiy intro to data analysis
 
 
-nrollments.csv:
+enrollments.csv:
 
 Data about a random subset of Data Analyst Nanodegree students who complete
 their first project and a random subset of students who do not.
